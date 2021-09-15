@@ -1,5 +1,5 @@
-p {
-    color: darkblue;
+h1 {
+    color: #0000ff;
     font-size: 16px;
     text-shadow: greenyellow;
 }
@@ -9,5 +9,11 @@ body {
     background: gainsboro;
     text-align: left;
     text-shadow: chartreuse;
-    text-decoration: darkblue;
+    text-decoration: rgb(231, 14, 6);
+}
+
+p {
+    color: darkblue;
+    font-size: 16px;
+    text-shadow: greenyellow;
 }
