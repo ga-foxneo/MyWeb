@@ -1,5 +1,9 @@
+head {
+    text-align: center;
+    text-shadow: hsl(hue, saturation, lightness);
+}
 body {
     margin: 0;
-    background: blue;
-    text-align: center;
+    background: gainsboro;
+    text-align: left;
 }
