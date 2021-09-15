@@ -1,7 +1,8 @@
-head {
+h1 {
     text-align: center;
-    text-shadow: hsl(hue, saturation, lightness);
+    text-shadow: chartreuse;
 }
+
 body {
     margin: 0;
     background: gainsboro;
